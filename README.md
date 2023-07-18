@@ -2,7 +2,7 @@
  <div>
    <a href="https://github.com/Noeeekr">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Noeeekr&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noeeekr&layout=compact&langs_count=6&theme=gruvbox"/>
+   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noeeekr&layout=compact&langs_count=6&theme=gruvbox"/>
 
 </div>
 <div style="display: inline_block"><br>
