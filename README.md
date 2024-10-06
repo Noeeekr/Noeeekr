@@ -3,10 +3,8 @@
  Esse perfil está desatualizado por alguns meses e não reflete a habilidade atual desse usuário. 
 </h2>
  <div>
-   <a href="https://github.com/Noeeekr">
    <img height="165em" width="45%" style="margin: 0px auto" src="https://github-readme-stats.vercel.app/api?username=Noeeekr&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
    <img height="165em" width="45%" style="margin: 0px auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noeeekr&layout=compact&langs_count=6&theme=gruvbox"/>
-
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
