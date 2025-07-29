@@ -1,7 +1,7 @@
 
 # André Cardozo Rodrigues
 <div>
-   <img height="240vh" width="auto" style="margin: 0px auto" src="https://github-readme-stats.vercel.app/api?username=Noeeekr&hide_border=true&show_icons=true&theme=synthwave&bg_color=40,102D4A,431047&title_color=9E9EE8&layout=normal&include_all_commits=true&text_color=B4B4ED&count_private=true"/>
+   <img height="240vh" width="auto" style="margin: 0px auto" src="https://github-readme-stats.vercel.app/api?username=Noeeekr&hide_border=true&show_icons=true&theme=synthwave&bg_color=40,102D4A,431047&title_color=9E9EE8&layout=normal&include_all_commits=false&text_color=B4B4ED&count_private=true"/>
    <img height="240vh" width="auto" style="margin: 0px auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noeeekr&hide_border=true&layout=normal&text_color=6C6CB8&title_color=A4A4ED&bg_color=30,431047,102D4A&langs_count=6&theme=synthwave"/>
 </div>
 
