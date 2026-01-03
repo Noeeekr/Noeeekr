@@ -97,7 +97,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >server-analyser</text>
+      >aqueduct</text>
     </g>
       </g>
     
@@ -110,14 +110,14 @@
     
 
     <text class="description" x="25" y="-5">
-      <tspan dy="1.2em" x="25">Tools to check server health, cpu metrics, memory</tspan><tspan dy="1.2em" x="25">information and more.</tspan>
+      <tspan dy="1.2em" x="25">File sharing service for computers on local network,</tspan><tspan dy="1.2em" x="25">equiped with amazing web page for managment.</tspan>
     </text>
 
     <g transform="translate(30, 65)">
       <g transform="translate(0, 0)">
     <g data-testid="primary-lang">
-      <circle data-testid="lang-color" cx="0" cy="-5" r="6" fill="#89e051" />
-      <text data-testid="lang-name" class="gray" x="15">Shell</text>
+      <circle data-testid="lang-color" cx="0" cy="-5" r="6" fill="#00ADD8" />
+      <text data-testid="lang-name" class="gray" x="15">Go</text>
     </g>
     </g>
     </g>
