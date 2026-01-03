@@ -28,28 +28,28 @@ jobs:
         with:
           card: pin
           options: username=${{ github.repository_owner }}&hide_border=true&repo=server-analyser&bg_color=40,102D4A,431047&title_color=9E9EE8
-          path: profile/pin.svg
+          path: profile/server-analyser.svg
           token: ${{ secrets.GITHUB_TOKEN }}
       - name: Generate Borm Pin
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
           options: username=${{ github.repository_owner }}&hide_border=true&repo=borm&bg_color=40,102D4A,431047&title_color=9E9EE8
-          path: profile/pin.svg
+          path: profile/borm.svg
           token: ${{ secrets.GITHUB_TOKEN }}
       - name: Generate Portifolio Pin
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
           options: username=${{ github.repository_owner }}&hide_border=true&repo=portifolio&bg_color=40,102D4A,431047&title_color=9E9EE8
-          path: profile/pin.svg
+          path: profile/portifolio.svg
           token: ${{ secrets.GITHUB_TOKEN }}
       - name: Generate Aqueduct Pin
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
           options: username=${{ github.repository_owner }}&hide_border=true&repo=aqueduct&bg_color=40,102D4A,431047&title_color=9E9EE8
-          path: profile/pin.svg
+          path: profile/aqueduct.svg
           token: ${{ secrets.GITHUB_TOKEN }}
       - name: Generate WakaTime Stats
         uses: readme-tools/github-readme-stats-action@v1
