@@ -13,11 +13,10 @@
 ![Wakatime](./profile/waka.svg)
 
 ## Projetos
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Noeeekr&hide_border=true&repo=borm&bg_color=40,102D4A,431047&title_color=9E9EE8)](https://github.com/Noeeekr/borm)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Noeeekr&hide_border=true&repo=portifolio&bg_color=40,102D4A,431047&title_color=9E9EE8)](https://github.com/Noeeekr/portifolio)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Noeeekr&hide_border=true&repo=aqueduct&bg_color=40,102D4A,431047&title_color=9E9EE8)](https://github.com/Noeeekr/aqueduct)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Noeeekr&hide_border=true&repo=server-analyser&bg_color=40,102D4A,431047&title_color=9E9EE8)](https://github.com/Noeeekr/server-analyser)
+![Readme Card](./profile/borm.svg)
+![Readme Card](./profile/aqueduct.svg)
+![Readme Card](./profile/portifolio.svg)
+![Readme Card](./profile/server-analyser.svg)
 
 ### Desenvolvimento Web & Relacionados 
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"> <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white"> <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"> <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"> <img src="https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white"> <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=ReactQuery&logoColor=white"> <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white">  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"> <img src="https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white"> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
