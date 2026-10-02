@@ -30,6 +30,20 @@ jobs:
           options: username=${{ github.repository_owner }}&hide_border=true&repo=server-analyser&bg_color=40,102D4A,431047&title_color=9E9EE8
           path: profile/server-analyser.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Generate Servicerized Pin
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&hide_border=true&repo=servicerized&bg_color=40,102D4A,431047&title_color=9E9EE8
+          path: profile/serv.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Generate Singullar Pin
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&hide_border=true&repo=singullar&bg_color=40,102D4A,431047&title_color=9E9EE8
+          path: profile/sing.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
       - name: Generate Borm Pin
         uses: stats-organization/github-readme-stats-action@v2
         with:
