@@ -13,6 +13,8 @@
 ![Wakatime](./profile/waka.svg)
 
 ## Projetos
+![Readme Card](./profile/serv.svg)
+![Readme Card](./profile/sing.svg)
 ![Readme Card](./profile/borm.svg)
 ![Readme Card](./profile/aqueduct.svg)
 ![Readme Card](./profile/portifolio.svg)
