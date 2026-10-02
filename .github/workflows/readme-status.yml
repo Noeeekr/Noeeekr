@@ -13,10 +13,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: Generate Main Stats
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
           options: username=${{ github.repository_owner }}&hide_border=true&show_icons=true&theme=synthwave&bg_color=40,102D4A,431047&title_color=9E9EE8&include_all_commits=false&text_color=B4B4ED&count_private=true
@@ -24,28 +24,28 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate Server Analyser Pin
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
           options: username=${{ github.repository_owner }}&hide_border=true&repo=server-analyser&bg_color=40,102D4A,431047&title_color=9E9EE8
           path: profile/server-analyser.svg
           token: ${{ secrets.GITHUB_TOKEN }}
       - name: Generate Borm Pin
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
           options: username=${{ github.repository_owner }}&hide_border=true&repo=borm&bg_color=40,102D4A,431047&title_color=9E9EE8
           path: profile/borm.svg
           token: ${{ secrets.GITHUB_TOKEN }}
       - name: Generate Portifolio Pin
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
           options: username=${{ github.repository_owner }}&hide_border=true&repo=portifolio&bg_color=40,102D4A,431047&title_color=9E9EE8
           path: profile/portifolio.svg
           token: ${{ secrets.GITHUB_TOKEN }}
       - name: Generate Aqueduct Pin
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
           options: username=${{ github.repository_owner }}&hide_border=true&repo=aqueduct&bg_color=40,102D4A,431047&title_color=9E9EE8
